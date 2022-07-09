@@ -1,0 +1,26 @@
+
+Username: competelri
+Student ID: 300573032\
+------- report -------\
+\
+What my program does:\
+  * Reads the data and draws a map\
+  * Constructs a graph stucture using collections\
+  * Map can be panned and zoomed using buttons or the mouse\
+  * trips can be higlighted, edges are built and highlights them\
+  * Trie used for road lookup, returning exact match or partial matches\
+      * Partial matches from trie lookup are displayed within the text box\
+\
+What my program accomplished do:\
+  * all of core and completion and only the mouse-scroll part of Challenge\
+\
+Data structures used:\
+  * Hashmaps for constant search/storing of data by ID\
+  * Lists for storing stops\
+  * Trie for looking up road names by prefix\
+  * Simple data structures (holding basic information such as stop/trip IDs and other\
+    descriptors) were used. They each have methods for drawing to the screen.\
+\
+How I tested my program:\
+  *Given that my program only worked on the ECS machines, I only got the chance to work\
+	on it in school. 
